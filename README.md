@@ -1,6 +1,6 @@
 # Random-numbers-Generator
 Code for generating random numbers in 
-* C
+* C++
   * rand
 * Python
   * randint()
